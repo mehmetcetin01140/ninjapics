@@ -1,10 +1,11 @@
 # Description
-
-Link: 
+This is a photo and gif finder site.
+Link: https://ninjapics.netlify.app/
 
 ## Screen Shots
 
-<!-- ![main-photo](./src/images/animal.png) -->
+[main-page](./screenshots/screenshot1.png)
+[categories](./screenshots/screenshot2.png)
 
 ## Available Scripts
 

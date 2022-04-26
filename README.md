@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link: 
+
+## Screen Shots
+
+<!-- ![main-photo](./src/images/animal.png) -->
 
 ## Available Scripts
 
